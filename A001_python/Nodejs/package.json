@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "url-search-params-polyfill": "^8.2.5"
+  }
+}
